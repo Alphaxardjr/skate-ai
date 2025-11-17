@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / compiled files
+__pycache__/
+*.pyc
+*.pyd
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+*.whl
+
+# Virtual environment
+venv/
+env/
+.venv/
+bin/
+lib/
+include/
+
+# IDE files
+.vscode/
+
+# OS/System files
+.DS_Store
+.Trash
+*~
